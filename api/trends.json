@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T06:11:53.391893+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2025-12-11T07:09:38.834438+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             17,
             20,
             21,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时09分]"
         },
         {
           "title": "美国总统特朗普就柬埔寨-泰国问题表示：我们正安排明天通电话。",
