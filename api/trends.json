@@ -1,71 +1,22 @@
 {
-  "generated_at": "2025-12-10T23:14:23.933206+08:00",
-  "total_titles_processed": 2104,
+  "generated_at": "2025-12-11T00:16:17.668714+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "泰国为何突然向柬埔寨开火",
           "url": "https://www.toutiao.com/trending/7582117551329512966/",
           "source": "今日头条",
           "ranks": [
-            1,
-            4,
-            5,
-            19,
-            18,
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时30分 ~ 23时14分]"
-        },
-        {
-          "title": "特朗普：明天需要给柬埔寨和泰国打电话。",
-          "url": "https://wallstreetcn.com/livenews/3018039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "柬埔寨谴责泰国军方轰炸塔克拉贝寺",
-          "url": "https://www.toutiao.com/trending/7580957939859488831/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 16时36分]"
-        },
-        {
-          "title": "柬埔寨宣布退出在泰国举办的东南亚运动会 代表团紧急回国",
-          "url": "https://flash.jin10.com/detail/20251210115522391800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时38分"
-        },
-        {
-          "title": "马来西亚总理：周二与柬埔寨和泰国总理就泰柬边境冲突进行了通话。赞赏两国领导人继续谈判的开放态度和意愿。",
-          "url": "https://flash.jin10.com/detail/20251210165303927800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "00时16分"
         }
       ]
     }
