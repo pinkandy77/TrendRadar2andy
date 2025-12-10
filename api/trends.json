@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T21:31:34.572487+08:00",
-  "total_titles_processed": 1954,
+  "generated_at": "2025-12-10T22:14:26.408816+08:00",
+  "total_titles_processed": 2024,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             4,
             5,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时30分 ~ 21时31分]"
+          "appearance_count": 8,
+          "time_info": "[17时30分 ~ 22时14分]"
         },
         {
           "title": "特朗普：明天需要给柬埔寨和泰国打电话。",
