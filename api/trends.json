@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T15:15:51.644632+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2025-12-12T16:16:30.346728+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             4,
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 15时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 16时16分]"
         },
         {
           "title": "市场消息：泰国总理解散议会不会影响与柬埔寨的边境冲突。",
