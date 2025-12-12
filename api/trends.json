@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T21:28:31.169223+08:00",
-  "total_titles_processed": 2071,
+  "generated_at": "2025-12-12T22:12:48.355758+08:00",
+  "total_titles_processed": 2149,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             9,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时53分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[11时53分 ~ 22时12分]"
         },
         {
           "title": "46名中国公民从柬埔寨电诈园区获救",
