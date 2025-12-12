@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T05:10:17.500759+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2025-12-13T06:11:04.953321+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时11分]"
         },
         {
           "title": "泰军一炮瞬秒柬埔寨副司令",
@@ -29,8 +30,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时11分]"
         },
         {
           "title": "特朗普：泰国和柬埔寨已同意今晚起停止交火",
